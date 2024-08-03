@@ -1,5 +1,5 @@
 {
-    "url": "https://testtelegramgame.vercel.app",
-    "name": "TON Vote",
-    "iconUrl": "https://ton.vote/logo.png"
+     "url": "https://ton-connect.github.io/demo-dapp-with-react-ui/",
+  "name": "Demo Dapp with React UI",
+  "iconUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/apple-touch-icon.png"
 }
